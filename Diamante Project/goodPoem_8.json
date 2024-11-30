@@ -1,0 +1,22 @@
+{
+  "topics": [
+    "{\n  \"name\": \"sonde\",\n  \"form\": \"sonde\",\n  \"part of speech\": \"noun\",\n  \"definition\": \" servant, messenger\"\n}",
+    "{\n  \"name\": \"hewe\",\n  \"form\": \"hewe\",\n  \"part of speech\": \"noun\",\n  \"definition\": \" hue, appearance\"\n}"
+  ],
+  "adjectives": [
+    "{\n  \"name\": \"shiten\",\n  \"form\": \"shiten\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" dirty, defiled\"\n}",
+    "{\n  \"name\": \"deef\",\n  \"form\": \"deef\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" deaf\"\n}",
+    "{\n  \"name\": \"sobre\",\n  \"form\": \"sobre\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" serious, grave\"\n}",
+    "{\n  \"name\": \"blew\",\n  \"form\": \"blew\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" blue \"\n}"
+  ],
+  "participles": [
+    "{\n  \"name\": \"floytynge\",\n  \"form\": \"floytynge\",\n  \"part of speech\": \"verb, prs. prtcpl.\",\n  \"definition\": \" whistling\"\n}",
+    "{\n  \"name\": \"stryvyng\",\n  \"form\": \"stryvyng\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" strife, quarrelling\"\n}",
+    "{\n  \"name\": \"herknynge\",\n  \"form\": \"herknynge\",\n  \"part of speech\": \"verb, verbal noun\",\n  \"definition\": \" listening\"\n}",
+    "{\n  \"name\": \"prikyng\",\n  \"form\": \"prikyng\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" tracking\"\n}",
+    "{\n  \"name\": \"conseillyng\",\n  \"form\": \"conseillyng\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" advice\"\n}",
+    "{\n  \"name\": \"fletynge\",\n  \"form\": \"fletynge\",\n  \"part of speech\": \"verb, prs. prtcpl.\",\n  \"definition\": \" floating\"\n}"
+  ],
+  "phrase": "corrumpable geldyng and embrouded pardoun",
+  "phrase definition": "[ corruptible] [ eunuch] and [ embroidered] [ 1. papal indulgences]"
+}

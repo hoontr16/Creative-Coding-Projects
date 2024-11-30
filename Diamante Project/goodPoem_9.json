@@ -1,0 +1,22 @@
+{
+  "topics": [
+    "{\n  \"name\": \"brymstoon\",\n  \"form\": \"brymstoon\",\n  \"part of speech\": \"noun\",\n  \"definition\": \" sulphur\"\n}",
+    "{\n  \"name\": \"girles\",\n  \"form\": \"girles\",\n  \"part of speech\": \"noun\",\n  \"definition\": \" young women, young people\"\n}"
+  ],
+  "adjectives": [
+    "{\n  \"name\": \"impertinent\",\n  \"form\": \"impertinent\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" irrelevant\"\n}",
+    "{\n  \"name\": \"gastly\",\n  \"form\": \"gastly\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" horrible, terrifying\"\n}",
+    "{\n  \"name\": \"shiten\",\n  \"form\": \"shiten\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" dirty, defiled\"\n}",
+    "{\n  \"name\": \"vinolent\",\n  \"form\": \"vinolent\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" drunken\"\n}"
+  ],
+  "participles": [
+    "{\n  \"name\": \"sublymyng\",\n  \"form\": \"sublymyng\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" sublimating, purifying\"\n}",
+    "{\n  \"name\": \"stryvyng\",\n  \"form\": \"stryvyng\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" strife, quarrelling\"\n}",
+    "{\n  \"name\": \"rowtyng\",\n  \"form\": \"rowtyng\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" snoring\"\n}",
+    "{\n  \"name\": \"conseillyng\",\n  \"form\": \"conseillyng\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" advice\"\n}",
+    "{\n  \"name\": \"yiven\",\n  \"form\": \"yiven\",\n  \"part of speech\": \"verb, pst. prtcpl.\",\n  \"definition\": \" given\"\n}",
+    "{\n  \"name\": \"chidyng\",\n  \"form\": \"chidyng\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" scolding\"\n}"
+  ],
+  "phrase": "slider harlot and folily whetston",
+  "phrase definition": "[ slippery] [ rascal, buffoon, jester] and [ foolishly] [ whetstone]"
+}

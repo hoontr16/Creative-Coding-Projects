@@ -1,0 +1,22 @@
+{
+  "topics": [
+    "{\n  \"name\": \"procuratour\",\n  \"form\": \"procuratour\",\n  \"part of speech\": \"noun\",\n  \"definition\": \" attorney\"\n}",
+    "{\n  \"name\": \"gnof\",\n  \"form\": \"gnof\",\n  \"part of speech\": \"noun\",\n  \"definition\": \" churl, peasant\"\n}"
+  ],
+  "adjectives": [
+    "{\n  \"name\": \"digne\",\n  \"form\": \"digne\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" worthy\"\n}",
+    "{\n  \"name\": \"privee\",\n  \"form\": \"privee, pryvee\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" secretive, discreet\"\n}",
+    "{\n  \"name\": \"wlatsom\",\n  \"form\": \"wlatsom\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" disgusting, loathsome\"\n}",
+    "{\n  \"name\": \"ferre\",\n  \"form\": \"ferre\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" farther\"\n}"
+  ],
+  "participles": [
+    "{\n  \"name\": \"herknynge\",\n  \"form\": \"herknynge\",\n  \"part of speech\": \"verb, verbal noun\",\n  \"definition\": \" listening\"\n}",
+    "{\n  \"name\": \"encombred\",\n  \"form\": \"encombred\",\n  \"part of speech\": \"verb, pst. prtcpl.\",\n  \"definition\": \" 1. stuck\"\n}",
+    "{\n  \"name\": \"grucchyng\",\n  \"form\": \"grucchyng, gruchchyng\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" complaining\"\n}",
+    "{\n  \"name\": \"prikyng\",\n  \"form\": \"prikyng\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" tracking\"\n}",
+    "{\n  \"name\": \"mordrynge\",\n  \"form\": \"mordrynge\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" murdering\"\n}",
+    "{\n  \"name\": \"venerie\",\n  \"form\": \"venerie\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" hunting\"\n}"
+  ],
+  "phrase": "sowple polax and untrewe myre",
+  "phrase definition": "[ compliant] [ battle-axe, pole-axe] and [ 1. inaccurately] [ 1. mire, a stretch of swampy or boggy ground]"
+}

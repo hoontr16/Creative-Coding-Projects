@@ -1,0 +1,22 @@
+{
+  "topics": [
+    "{\n  \"name\": \"yowthe\",\n  \"form\": \"yowthe\",\n  \"part of speech\": \"noun\",\n  \"definition\": \" youth\"\n}",
+    "{\n  \"name\": \"parissh clerk\",\n  \"form\": \"parissh clerk\",\n  \"part of speech\": \"noun\",\n  \"definition\": \" someone who assists the parish priest to perform services in church\"\n}"
+  ],
+  "adjectives": [
+    "{\n  \"name\": \"wayke\",\n  \"form\": \"wayk, wayke\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" weak\"\n}",
+    "{\n  \"name\": \"trewe\",\n  \"form\": \"trewe\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" true\"\n}",
+    "{\n  \"name\": \"trenchant\",\n  \"form\": \"trenchant\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" sharp\"\n}",
+    "{\n  \"name\": \"nyce\",\n  \"form\": \"nyce\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" foolish, scrupulous\"\n}"
+  ],
+  "participles": [
+    "{\n  \"name\": \"wrastlynge\",\n  \"form\": \"wrestling\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" wrestling\"\n}",
+    "{\n  \"name\": \"kithed\",\n  \"form\": \"kithed\",\n  \"part of speech\": \"verb, pst. prtcpl.\",\n  \"definition\": \" shown\"\n}",
+    "{\n  \"name\": \"kithed\",\n  \"form\": \"kithed\",\n  \"part of speech\": \"verb, pst. prtcpl.\",\n  \"definition\": \" shown\"\n}",
+    "{\n  \"name\": \"yiven\",\n  \"form\": \"yiven\",\n  \"part of speech\": \"verb, pst. prtcpl.\",\n  \"definition\": \" given\"\n}",
+    "{\n  \"name\": \"agast\",\n  \"form\": \"agast\",\n  \"part of speech\": \"verb, pst. prtcpl.\",\n  \"definition\": \" frightened\"\n}",
+    "{\n  \"name\": \"mysboden\",\n  \"form\": \"mysboden\",\n  \"part of speech\": \"verb, pst. prtcpl.\",\n  \"definition\": \" injured\"\n}"
+  ],
+  "phrase": "sike weddynge and kempe bridale",
+  "phrase definition": "[ sick] [ wedding] and [ shaggy, unkempt] [ wedding-party]"
+}

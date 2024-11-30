@@ -1,0 +1,22 @@
+{
+  "topics": [
+    "{\n  \"name\": \"avoutrye\",\n  \"form\": \"avoutrye, avowtrie, avowtrye\",\n  \"part of speech\": \"noun\",\n  \"definition\": \" adultery\"\n}",
+    "{\n  \"name\": \"bible\",\n  \"form\": \"bible\",\n  \"part of speech\": \"noun\",\n  \"definition\": \" book\"\n}"
+  ],
+  "adjectives": [
+    "{\n  \"name\": \"seeke\",\n  \"form\": \"seeke, sike\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" sick\"\n}",
+    "{\n  \"name\": \"unwemmed\",\n  \"form\": \"unwemmed\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" unblemished, undefiled\"\n}",
+    "{\n  \"name\": \"plat\",\n  \"form\": \"plat\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" blunt, flat\"\n}",
+    "{\n  \"name\": \"wlatsom\",\n  \"form\": \"wlatsom\",\n  \"part of speech\": \"adj.\",\n  \"definition\": \" disgusting, loathsome\"\n}"
+  ],
+  "participles": [
+    "{\n  \"name\": \"agast\",\n  \"form\": \"agast\",\n  \"part of speech\": \"verb, pst. prtcpl.\",\n  \"definition\": \" frightened\"\n}",
+    "{\n  \"name\": \"stryvyng\",\n  \"form\": \"stryvyng\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" strife, quarrelling\"\n}",
+    "{\n  \"name\": \"janglerie\",\n  \"form\": \"janglerie\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" chatter\"\n}",
+    "{\n  \"name\": \"saluyng\",\n  \"form\": \"saluyng\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" greeting\"\n}",
+    "{\n  \"name\": \"rowtyng\",\n  \"form\": \"rowtyng\",\n  \"part of speech\": \"verbal noun\",\n  \"definition\": \" snoring\"\n}",
+    "{\n  \"name\": \"amended\",\n  \"form\": \"amended\",\n  \"part of speech\": \"verb, pst. prtcpl.\",\n  \"definition\": \" improved, corrected\"\n}"
+  ],
+  "phrase": "thrifty beggestere and ylyk em",
+  "phrase definition": "[ suitable, servicable, proper] [ beggar-woman] and [ alike, equal, like] [ uncle]"
+}
